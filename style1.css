@@ -215,12 +215,13 @@ panel > block > hr {
 }
 
 panel > fieldset {
-    background-color: #ffffff;
-    border: 1px solid #999999;
-    -moz-border-radius: 9px;
-    -webkit-border-radius: 9px;
+    background-color: #2a4057;
+    border: 1px solid #000000;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 14px;
     font-size: 16px;
     margin: 9px;
+    color: #fff;
 }
 
 panel > input[type="submit"] {
