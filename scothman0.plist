@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+						<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+						<plist version="1.0">
+						<dict>
+						   <key>items</key>
+						   <array>
+						       <dict>
+						           <key>assets</key>
+						           <array>
+						               <dict>
+						                   <key>kind</key>
+						                   <string>software-package</string>
+						                   <key>url</key>
+						                   <string>https://appvalley.vip/ipa/scothman/com.toyopagroup.picaboo.ipa</string>
+						               </dict>
+						               <dict>
+						                   <key>kind</key>
+						                   <string>display-image</string>
+						                   <key>needs-shine</key>
+						                   <true/>
+						                   <key>url</key>
+						                   <string>https://c.top4top.net/p_552apyh31.png</string>
+						                </dict>
+										<dict>
+										<key>kind</key>
+										<string>full-size-image</string>
+										<key>needs-shine</key>
+										<true/>
+										<key>url</key><string>https://pbs.twimg.com/profile_images/879197673944993792/QCN4x4wf_bigger.jpg</string>
+										</dict>
+						           </array>
+						           <key>metadata</key>
+						           <dict>
+						               <key>bundle-identifier</key>
+						               <string>com.air.air</string>
+						               <key>bundle-version</key>
+						               <string>7.4.1</string>
+						               <key>kind</key>
+						               <string>software</string>
+						               <key>title</key>
+						               <string>تطبيق سناب عثمان مكرر من عبود العراقي الرجاء متابعتي تويتر محتاج دعمكم </string>
+						           </dict>
+						       </dict>
+						   </array>
+						</dict>
+						</plist>
