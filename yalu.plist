@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://dl.dropboxusercontent.com/s/d16yna1ooc0e9oz/yalu102.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>hhttps://pbs.twimg.com/profile_images/891605791165345792/6Be1PtV1_bigger.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://dl.dropboxusercontent.com/s/1quxx009ra7b2hn/yalu.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>kim.cracksby.yalu102
+</string>
+				<key>bundle-version</key>
+				<string>2.5.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>yalu 102</string>
+				<key>title</key>
+				<string>yalu102 من قبل عبود العراقي و عبد العزيز
+
+					عبود العراقي
+					@a1iraqi
+
+					عبدالعزيز
+					@i3zoozz
+					بدون كمبيوتر</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
